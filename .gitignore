@@ -1,0 +1,12 @@
+
+# Arquivos temporarios
+*.log
+*.tmp
+
+# Configuracoes locais
+.vscode/
+.DS_Store
+
+# Credenciais locais
+.env
+.env.local

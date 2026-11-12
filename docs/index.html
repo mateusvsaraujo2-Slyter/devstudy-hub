@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevStudy Hub</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 60px auto;
+            padding: 20px;
+            line-height: 1.6;
+            background-color: #f4f6f8;
+            color: #222;
+        }
+
+        button {
+            padding: 12px 20px;
+            background-color: #2563eb;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        #categorias {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>DevStudy Hub</h1>
+        <p>Seu espaço para estudar tecnologia.</p>
+    </header>
+
+    <main>
+        <h2>Sobre o projeto</h2>
+
+        <p>
+            O DevStudy Hub reúne categorias de estudo
+            para quem está começando na área de tecnologia.
+        </p>
+
+        <button id="botao-categorias" aria-expanded="false">
+            Mostrar categorias
+        </button>
+
+        <div id="categorias" hidden>
+            <h2>Categorias de estudo</h2>
+
+            <ul>
+                <li>Linux</li>
+                <li>Redes de Computadores</li>
+                <li>Git e GitHub</li>
+                <li>DevOps</li>
+            </ul>
+        </div>
+
+        <h2>Links do projeto</h2>
+
+        <p>
+            <a href="https://github.com/mateusvsaraujo2-Slyter/devstudy-hub">
+                Repositório no GitHub
+            </a>
+        </p>
+
+        <p>
+            <a href="https://github.com/mateusvsaraujo2-Slyter/devstudy-hub#readme">
+                Documentação do projeto
+            </a>
+        </p>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
