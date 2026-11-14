@@ -6,7 +6,7 @@ Projeto desenvolvido para praticar Git, GitHub e o fluxo colaborativo de desenvo
 
 O **DevStudy Hub** é uma página web simples que reúne categorias de estudo em tecnologia.
 
-O objetivo principal é aplicar conceitos de versionamento, branches, commits, Issues, Pull Requests e documentação.
+O objetivo principal é aplicar conceitos de versionamento, branches, commits, Issues, Pull Requests e documentação
 
 ## Sumário
 
@@ -26,7 +26,7 @@ O objetivo principal é aplicar conceitos de versionamento, branches, commits, I
 - Botão interativo para mostrar ou ocultar categorias.
 - Links para o repositório e os relatórios.
 
-**Tecnologias utilizadas:** HTML, CSS, JavaScript, Git, GitHub e Markdown.
+**Tecnologias utilizadas:** HTML, CSS, JavaScript, Git, GitHub e Markdown
 
 ## Estrutura do projeto
 
@@ -95,29 +95,33 @@ Relatórios com explicações e evidências:
 
 ## Checklist
 
-- [x] Criar repositório e Issues.
-- [x] Desenvolver página com JavaScript.
-- [x] Registrar commits significativos.
-- [x] Utilizar branches e Pull Requests.
+- [x] Criar repositório e Issues
+- [x] Desenvolver página com JavaScript
+- [x] Registrar commits significativos
+- [x] Utilizar branches e Pull Requests
 - [x] Praticar stash e comandos de investigação.
-- [x] Documentar as Partes 1 a 5.
-- [ ] Publicar a página no GitHub Pages.
-- [ ] Criar tag de versão.
-- [ ] Concluir Wiki e troubleshooting.
-- [ ] Realizar validação final.
+- [x] Documentar as Partes 1 a 10.
+- [x] Publicar a página no GitHub Pages
+- [x] Criar tag de versão.
+- [x] Concluir Wiki e troubleshooting
+- [x] Realizar validação final
+
 
 ## GitHub Pages
 
-**Publicação pendente — Parte 9.**
+O DevStudy Hub está publicado e pode ser acessado pelo link:
 
-O link público da página será adicionado aqui após sua publicação e validação.
+[**Acessar DevStudy Hub**](https://mateusvsaraujo2-slyter.github.io/devstudy-hub/)
+
+A página apresenta as categorias de estudo e os relatórios
+das dez etapas do projeto
+
 
 ## Aprendizados e dificuldades
 
 **Aprendizados:** utilização de Git e GitHub para versionar arquivos, organizar tarefas, trabalhar com branches e revisar Pull Requests.
 
-**Dificuldades:** corrigir caminhos de arquivos, interpretar erros do terminal e organizar commits e evidências.
-
+**Dificuldades:** corrigir caminhos de arquivos, interpretar erros do terminal e organizar commits e evidências
 Essas dificuldades contribuíram para melhorar nossa compreensão do fluxo Git.
 
 ## Referências
