@@ -38,7 +38,7 @@ devstudy-hub/
 │   ├── index.html
 │   ├── app.js
 │   └── relatorios/
-│       └── 01 a 05 — Relatórios das etapas
+│       └── 01 a 10 — Relatórios das etapas
 └── evidencias/
     └── 01 a 05 — Capturas de tela
 ```
@@ -93,6 +93,13 @@ Relatórios com explicações e evidências:
 - [Parte 4 — Branches e Pull Requests](docs/relatorios/04-branches-pull-requests.md)
 - [Parte 5 — Stash e investigação](docs/relatorios/05-stash-investigacao.md)
 
+- [Parte 6 — README](docs/relatorios/06-readme.md)
+- [Parte 7 — Wiki e GitHub](docs/relatorios/07-wiki-recursos-github.md)
+- [Parte 8 — Tag de versão](docs/relatorios/08-tag-versao.md)
+- [Parte 9 — GitHub Pages](docs/relatorios/09-github-pages.md)
+- [Parte 10 — Troubleshooting](docs/relatorios/10-troubleshooting.md)
+
+
 ## Checklist
 
 - [x] Criar repositório e Issues
@@ -104,7 +111,7 @@ Relatórios com explicações e evidências:
 - [x] Publicar a página no GitHub Pages
 - [x] Criar tag de versão.
 - [x] Concluir Wiki e troubleshooting
-- [x] Realizar validação final
+- [ ] Realizar validação final
 
 
 ## GitHub Pages
