@@ -36,30 +36,10 @@ Praticar a identificação e resolução de três problemas comuns durante o ver
 - **Resultado:** o commit voltou ao histórico da branch.
 - **Validação:** `git log` confirmou o commit e `ls -l recuperacao-teste.txt` confirmou o arquivo restaurado.
 
-### Cenário 2 — Arquivo versionado indevidamente
-
-**Problema:** um arquivo interno foi adicionado ao histórico Git por engano.
-
-**Investigação:** utilizamos `git ls-files` e `git status` para confirmar o rastreamento.
-
-**Solução:** executamos `git rm --cached` e adicionamos uma regra ao `.gitignore`.
-
-**Validação:** o arquivo deixou de ser rastreado, mas permaneceu no computador.
-
-### Cenário 3 — Commit perdido
-
-**Problema:** simulamos a perda de um commit utilizando `git reset --hard HEAD~1`.
-
-**Investigação:** localizamos o commit `09ef038` utilizando `git reflog`.
-
-**Solução:** recuperamos o commit com `git reset --hard 09ef038`.
-
-**Validação:** o commit voltou ao histórico da branch e o arquivo de teste foi restaurado.
-
 ## 3. Resultado
 
 Concluímos as três simulações com sucesso, sem modificar a branch principal do projeto.
 
 ## 4. Aprendizados
 
-Aprendemos a corrigir alterações realizadas na branch errada, interromper o rastreamento de arquivos e recuperar commits utilizando o histórico local do Git.
+Aprendemos a corrigir alterações realizadais na branch errada, interromper o rastreamento de arquivos e recuperar commits utilizando o histórico local do Git.
