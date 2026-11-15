@@ -80,8 +80,9 @@ git push -u origin feature/nova-tarefa
 | Issue | Entrega | Situação |
 |---|---|---|
 | [#1](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/1) | Estrutura inicial | Concluída |
-| [#2](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/2) | Documentação | Em andamento |
-| [#3](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/3) | Página e GitHub Pages | Em andamento |
+| [#2](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/2) | Documentação | Concluída |
+| [#3](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/3) | Página e GitHub Pages | Concluída |
+| [#13](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/13) | Melhoria dos links dos relatórios | Concluída 
 
 ## Documentação
 
