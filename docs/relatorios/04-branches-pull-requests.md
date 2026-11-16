@@ -19,8 +19,8 @@ Em cada branch, registramos as alterações em commits e as enviamos ao GitHub. 
 | Pull Request | Objetivo | Issue relacionada | Resultado |
 | --- | --- | --- | --- |
 | [#4](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/pull/4) | Estrutura inicial | [#1](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/1) | Merge realizado; Issue #1 fechada |
-| [#5](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/pull/5) | Relatórios e evidências | [#2](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/2) | Merge realizado; Issue #2 permanece aberta |
-| [#6](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/pull/6) | Links dos relatórios na página | [#3](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/3) | Merge realizado; Issue #3 permanece aberta |
+| [#5](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/pull/5) | Relatórios e evidências | [#2](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/2) | Merge realizado; Issue #2 fechada |
+| [#6](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/pull/6) | Links dos relatórios na página | [#3](https://github.com/mateusvsaraujo2-Slyter/devstudy-hub/issues/3) | Merge realizado; Issue #3 fecahada |
 
 Confirmamos a ausência de conflitos, conferimos os arquivos alterados e excluímos as branches **remotas** depois das integrações. Os commits permanecem preservados na `main`.
 

@@ -12,7 +12,7 @@ Registramos as alterações em um commit e realizamos o merge pela Pull Request 
 
 ## 3. Resultado
 
-O README foi integrado à branch `main`. O link do GitHub Pages será acrescentado após a publicação do site.
+O README foi integrado à branch main. Após a publicação do site, adicionamos o link do GitHub Pages à documentação principal do projeto.
 
 ## 4. Aprendizados
 
